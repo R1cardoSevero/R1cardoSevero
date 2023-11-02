@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/R1cardoSevero/R1cardoSevero/assets/131299832/164f285b-c014-4c93-98a2-497b10a30d5e" widht="370px" height="420px">
 
-# Sobre Mim
+# Um pouco sobre mim
 
 
 ### Meu Conhecimento:
