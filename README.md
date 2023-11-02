@@ -16,7 +16,7 @@
 <div align="center"> 
 
   
- <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1cardo&layout=compact&theme=dark&hide_border=true" /></a> 
+ <a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1cardoSevero&layout=compact&theme=dark&hide_border=true" /></a> 
 
 
 
