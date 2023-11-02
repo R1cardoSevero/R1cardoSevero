@@ -1,9 +1,9 @@
 <img align="left" src="https://github.com/R1cardoSevero/R1cardoSevero/assets/131299832/164f285b-c014-4c93-98a2-497b10a30d5e" widht="370px" height="420px">
 
-# Olá Mundo!
-## Olá Mundo!
-### Olá Mundo!
+# Sobre Mim
 
+
+### Meu Conhecimento:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
