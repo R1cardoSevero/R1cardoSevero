@@ -16,18 +16,7 @@
  <a  href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1cardoSevero&layout=compact&theme=dark&hide_border=true" /></a> 
 
 <br> <br>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-</img>
