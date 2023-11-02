@@ -13,24 +13,13 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-<div align="center"> 
-
-  
-
-
-
-
-
-
-</img>
-
-</div>
+ <a  href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1cardoSevero&layout=compact&theme=dark&hide_border=true" /></a> 
 
 <br> <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
- <a  href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1cardoSevero&layout=compact&theme=dark&hide_border=true" /></a> 
+
 
 
 
