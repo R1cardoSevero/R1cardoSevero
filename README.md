@@ -24,10 +24,8 @@
 const Ricardo = {
   nome:       "Ricardo Severo",
   localização: "Brasil 🇧🇷",
-  status:     "Dev em construção 🚧",
-  foco:       ["Front-end", "HTML", "CSS", "JavaScript"],
-  hobbies:    ["Games 🎮", "Música 🎵", "Tecnologia 💡"],
-  objetivo:   "Virar dev fullstack e deixar minha marca no mundo 🚀",
+  foco:       ["Front-end", "HTML", "CSS","React","JavaScript"],
+  hobbies:    ["Games 🎮","Tecnologia 💡"]
 };
 ```
 
